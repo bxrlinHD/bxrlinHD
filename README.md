@@ -7,4 +7,4 @@ I'm Bxrlin, studying business, and computer science. I work with many bright ind
 I am most active on my Discord, Alternatively you can contact me on my [Twitter](https://twitter.com/Heysaksham) account. Both of which are open to any enquiries or any questions you have about me, or my projects.
 
 
-<img src="https://badges.pufler.dev/visits/syrmgit/syrmgit?style=for-the-badge">
+<img src="https://badges.pufler.dev/visits/bxrlin/bxrlin?style=for-the-badge">
