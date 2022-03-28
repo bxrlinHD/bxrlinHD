@@ -4,4 +4,3 @@
 
 
 <img src="https://badges.pufler.dev/visits/bxrlin/bxrlin?style=for-the-badge">
-Cancel changes
