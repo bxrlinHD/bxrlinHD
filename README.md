@@ -1,6 +1,6 @@
 # Hello there, I'm bxrlin 👋.
 
-# @ [discord](https://discord.gg/ZZMdQVzYqn)
+# - Veni Vidi Vici.
 
 
-<img src="https://badges.pufler.dev/visits/bxrlin/bxrlin?style=for-the-badge">
+
